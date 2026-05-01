@@ -47,13 +47,13 @@ screenshots/ → Application screenshots
 ## 📸 Screenshots
 
 ### UI Before Prediction  
-![UI](screenshots/app1.png)
+![UI](Screenshot/app1.png)
 
 ### Prediction Output  
-![Prediction](screenshots/app2.png)
+![Prediction](Screenshot/app2.png)
 
 ### Recommendations  
-![Recommendations](screenshots/app3.png)
+![Recommendations](Screenshot/app3.png)
 
 ---
 
